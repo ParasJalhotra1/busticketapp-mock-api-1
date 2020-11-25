@@ -12,9 +12,9 @@
     
   
     "buses": [
-        [{"id":1,
+        {"id":1,
           "Provider":"Jhujhar","Duration":5,"Time":"04:55","Price":966,"AddedOn":"2020-11-22T10:14:43.900Z"},
-         {"id":2 ,"Provider":"VOLVO","Duration":9,"Time":"16:55","Price":966,"AddedOn":"2020-11-24T11:18:50.275Z"}]
+         {"id":2 ,"Provider":"VOLVO","Duration":9,"Time":"16:55","Price":966,"AddedOn":"2020-11-24T11:18:50.275Z"}
 
     ],
     "tickets": [
